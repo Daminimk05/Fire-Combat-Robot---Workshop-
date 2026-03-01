@@ -42,8 +42,7 @@ To design and build a fire combat robot that can automatically detect fire and e
 ## Project Images
 
 ### Robot Setup
-![Fire Combat Robot Setup](images/robot_setup.jpg)
-
+<img src="images/robot_setup.jpg" width="400">
 *(Images are for demonstration purposes.)*
 
 ---
